@@ -10,7 +10,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-3">
-            <img src="./src/assets/Logo.png" alt="IEEE Logo" className="w-12 h-12 object-contain" />
+            <img src="./Logo.png" alt="IEEE Logo" className="w-12 h-12 object-contain" />
             <div>
               <h1 className="text-xl font-bold text-gray-900 dark:text-white">IEEE Student Branch PESU</h1>
               <p className="text-xs text-gray-500 dark:text-gray-400">Engineering the future with us</p>

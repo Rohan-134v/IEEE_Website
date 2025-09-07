@@ -15,7 +15,7 @@ const News: React.FC<NewsProps> = ({ onReadFullStory, onViewAllNews }) => {
       category: "Stall",
       excerpt: "Join us at the IEEE PES SB Stall during the Freshers Day event to explore about us and engage in exiciting activities.",
       featured : true,
-      image: "./src/assets/CF4.JPG",
+      image: "./CF4.JPG",
       icon: <Zap className="w-4 h-4" />
     },
     {
@@ -24,7 +24,7 @@ const News: React.FC<NewsProps> = ({ onReadFullStory, onViewAllNews }) => {
       date: "25-02-2025",
       category: "Hackathon",
       excerpt: "We are excited to announce Kalpana 2025, our annual flagship hackathon event, happening on March 15-16, 2025. Join us for 24 hours of coding, collaboration, and innovation!",
-      image: "./src/assets/KP1.JPG",
+      image: "./KP1.JPG",
       featured: true,
       icon: <Award className="w-4 h-4" />
     },

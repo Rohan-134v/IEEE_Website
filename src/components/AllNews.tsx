@@ -20,7 +20,7 @@ const AllNews: React.FC<AllNewsProps> = ({ onBack, onViewStory }) => {
       author: "IEEE PES SB Team",
       readTime: "3 min read",
       excerpt: "Join us at the IEEE PES SB Stall during the Freshers Day event to explore about us and engage in exciting activities.",
-      image: "./src/assets/CF4.JPG",
+      image: "./CF4.JPG",
       featured: true,
       fullContent: `We are thrilled to announce our participation in the upcoming Freshers Day event with our IEEE PES SB Stall! This is an excellent opportunity for new students to learn about the IEEE Power & Energy Society Student Branch and discover the exciting world of power engineering.
 
@@ -42,7 +42,7 @@ Date: September 16, 2025`
       author: "Event Organizing Committee",
       readTime: "5 min read",
       excerpt: "We are excited to announce Kalpana 2025, our annual flagship hackathon event, happening on March 15-16, 2025. Join us for 24 hours of coding, collaboration, and innovation!",
-      image: "./src/assets/KP1.JPG",
+      image: "./KP1.JPG",
       featured: true,
       fullContent: `Get ready for the most anticipated tech event of the year! Kalpana 2025 is back with bigger challenges, better prizes, and more opportunities to showcase your innovative spirit. This 24-hour hackathon will bring together the brightest minds from across the region to solve real-world problems through technology.
 
@@ -106,7 +106,7 @@ Our university has consistently performed well in IEEE Xtreme, with several team
       author: "Technical Team",
       readTime: "3 min read",
       excerpt: "A 24-hour hackathon event where students come together to build innovative projects and compete for exciting prizes.",
-      image: "./src/assets/CF2.JPG",
+      image: "./CF2.JPG",
       fullContent: `Code Fusion was an incredible 24-hour hackathon that brought together passionate developers, designers, and innovators from across the campus. The event was a testament to the creative potential of our student community.
 
 The hackathon featured multiple tracks including Web Development, Mobile Applications, AI/ML Solutions, and IoT Projects. Participants worked tirelessly to transform their ideas into working prototypes, with mentors available throughout the event to provide guidance and support.

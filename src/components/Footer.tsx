@@ -30,7 +30,7 @@ const Footer = () => {
           {/* Logo and Description */}
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-3 mb-4">
-              <img src="./src/assets/Logo.png" alt="IEEE Logo" className="w-12 h-12 object-contain" />
+              <img src="./Logo.png" alt="IEEE Logo" className="w-12 h-12 object-contain" />
               <div>
                 <h3 className="text-xl font-bold">IEEE Student Branch PESU</h3>
                 <p className="text-sm text-gray-400">Engineering the future with us</p>

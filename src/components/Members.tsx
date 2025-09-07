@@ -7,42 +7,42 @@ const Members = () => {
       name: "Anupam G",
       role: "Chair",
       year: "3rd Year - Computer Science and Engineering",
-      image: "./src/assets/8.png",
+      image: "./8.png",
       quote: "Anupams Bio"
     },
     {
       name: "Rohan",
       role: "Vice Chair",
       year: "3rd Year - Computer Science and Engineering",
-      image: "./src/assets/9.png",
+      image: "./9.png",
       quote: "Rohans Bio"
     },
     {
       name: "Meghana Veeramallu ",
       role: "WIE Chair",
       year: "3rd Year - Computer Science and Engineering",
-      image: "./src/assets/10.png",
+      image: "./10.png",
       quote: "Meghanas Bio"
     },
     {
       name: "Delisha Dsouza",
       role: "Treasurer",
       year: "3rd Year - Computer Science and Engineering",
-      image: "./src/assets/11.png",
+      image: "./11.png",
       quote: "Delishas Bio"
     },
     {
       name: "Atharv Mittal",
       role: "SIGHT Chair",
       year: "3rd Year - Computer Science and Engineering",
-      image: "./src/assets/12.png",
+      image: "./12.png",
       quote: "Atharvs Bio"
     },
     {
       name: "Akshaj Hedau",
       role: "Webmaster",
       year: "3rd Year - Computer Science and Engineering",
-      image: "./src/assets/13.png",
+      image: "./13.png",
       quote: "Akshajs Bio"
     }
   ];

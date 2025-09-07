@@ -14,7 +14,7 @@ const NewsDetail: React.FC<NewsDetailProps> = ({ newsId, onBack }) => {
       category: "Stall",
       author: "IEEE PES SB Team",
       readTime: "3 min read",
-      image: "./src/assets/CF4.JPG",
+      image: "./CF4.JPG",
       excerpt: "Join us at the IEEE PES SB Stall during the Freshers Day event to explore about us and engage in exciting activities.",
       content: `
         <p class="text-gray-900 dark:text-white">We are thrilled to announce our participation in the upcoming Freshers Day event with our IEEE PES SB Stall! This is an excellent opportunity for new students to learn about the IEEE Power & Energy Society Student Branch and discover the exciting world of power engineering.</p>
@@ -64,7 +64,7 @@ const NewsDetail: React.FC<NewsDetailProps> = ({ newsId, onBack }) => {
       category: "Hackathon",
       author: "Event Organizing Committee",
       readTime: "5 min read",
-      image: "./src/assets/KP1.JPG",
+      image: "./KP1.JPG",
       excerpt: "We are excited to announce Kalpana 2025, our annual flagship hackathon event, happening on March 15-16, 2025. Join us for 24 hours of coding, collaboration, and innovation!",
       content: `
         <p class="text-gray-900 dark:text-white">Get ready for the most anticipated tech event of the year! Kalpana 2025 is back with bigger challenges, better prizes, and more opportunities to showcase your innovative spirit. This 24-hour hackathon will bring together the brightest minds from across the region to solve real-world problems through technology.</p>
@@ -226,7 +226,7 @@ const NewsDetail: React.FC<NewsDetailProps> = ({ newsId, onBack }) => {
       author: "Technical Team",
       readTime: "3 min read",
       excerpt: "A 24-hour hackathon event where students come together to build innovative projects and compete for exciting prizes.",
-      image: "./src/assets/CF2.JPG",
+      image: "./CF2.JPG",
       content: `Code Fusion was an incredible 24-hour hackathon that brought together passionate developers, designers, and innovators from across the campus. The event was a testament to the creative potential of our student community.
 
 The hackathon featured multiple tracks including Web Development, Mobile Applications, AI/ML Solutions, and IoT Projects. Participants worked tirelessly to transform their ideas into working prototypes, with mentors available throughout the event to provide guidance and support.
