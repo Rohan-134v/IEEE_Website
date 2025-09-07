@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom prose styles for better readability */
+.prose h3 {
+  @apply text-xl font-semibold mb-4 mt-6 text-gray-900 dark:text-white;
+}
+
+.prose h4 {
+  @apply text-lg font-semibold mb-3 mt-5 text-gray-900 dark:text-white;
+}
+
+.prose p {
+  @apply mb-4 leading-relaxed text-gray-900 dark:text-white;
+}
+
+.prose ul {
+  @apply mb-4 pl-6 text-gray-900 dark:text-white;
+}
+
+.prose li {
+  @apply mb-2 text-gray-900 dark:text-white;
+}
+
+.prose strong {
+  @apply font-semibold text-gray-900 dark:text-white;
+}
+
+.prose ol {
+  @apply mb-4 pl-6 text-gray-900 dark:text-white;
+}
+
+/* Dark mode specific overrides */
+.dark .prose {
+  @apply text-white;
+}
+
+.dark .prose h1,
+.dark .prose h2,
+.dark .prose h3,
+.dark .prose h4,
+.dark .prose h5,
+.dark .prose h6 {
+  @apply text-white;
+}
+
+.dark .prose p,
+.dark .prose li,
+.dark .prose strong {
+  @apply text-white;
+}
