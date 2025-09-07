@@ -11,7 +11,12 @@ import More from './components/More';
 import NewsDetail from './components/NewsDetail';
 import AllNews from './components/AllNews';
 
+
+
 function App() {
+
+
+
   const [currentPage, setCurrentPage] = useState<'home' | 'ieee-info'>('home');
 
   const showIEEEInfo = () => {
