@@ -10,8 +10,7 @@ import Footer from './components/Footer';
 import More from './components/More';
 import NewsDetail from './components/NewsDetail';
 import AllNews from './components/AllNews';
-
-
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
 
